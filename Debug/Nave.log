@@ -1,0 +1,12 @@
+﻿  NodoJugadores.cpp
+  Gestor.cpp
+  Generating Code...
+  Compiling...
+  Main.cpp
+c:\users\josep\onedrive\documentos\visual studio 2017\projects\nave\nave\main.cpp(155): warning C4101: 'y': unreferenced local variable
+c:\users\josep\onedrive\documentos\visual studio 2017\projects\nave\nave\main.cpp(155): warning C4101: 'x': unreferenced local variable
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Nave.cpp
+  Nave.vcxproj -> C:\Users\josep\OneDrive\documentos\visual studio 2017\Projects\Nave\Debug\Nave.exe
+  Nave.vcxproj -> C:\Users\josep\OneDrive\documentos\visual studio 2017\Projects\Nave\Debug\Nave.pdb (Partial PDB)
